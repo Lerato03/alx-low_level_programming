@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+[master 2c31eb6] intel
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+=======
+#!/bin/bash
+gcc -S -masm=intel $CFILE
+>>>>>>> 23866c517b8c2185d5872e1f0d0939e4e45116bb
