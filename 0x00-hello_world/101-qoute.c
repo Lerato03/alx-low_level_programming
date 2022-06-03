@@ -1,14 +1,3 @@
-#inlude <stdio.h>
-#iclude <unistd.h>
-
-/**
- * main - print exactly "and that peice of art is useful"
- *  - Dora Korpar, 2015-10-19
- *  followed by a new line, to the standard error.
- *  Return: Always 0 (Success)
- *  */
-int main(void)
-{
-	write(2, "and that peice of art is useful\" - Dora Korpar,
-			return(1);
-}
+[master 2275d31] qoute.c
+ 2 files changed, 16 insertions(+), 4 deletions(-)
+ create mode 100644 0x00-hello_world/101-qoute.c
