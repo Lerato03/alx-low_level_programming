@@ -3,7 +3,6 @@
 #include <stdio.h>
 /**
  * main - prints a random number
- *
  * Return: always 0
  */
 int main(void)
