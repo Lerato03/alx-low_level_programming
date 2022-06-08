@@ -1,20 +1,12 @@
-#include "main.h"
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 1 and 2 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
 
-/**
- * main - prints _putchar, followed by a new line
- * Return: Always 0 (Success)
- */
-int main(void)
-{
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   0-putchar.c
+	modified:   ../README.md
 
-	return (0);
-}
+no changes added to commit (use "git add" and/or "git commit -a")
