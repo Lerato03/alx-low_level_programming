@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+[master 71e8192] print comb c
+=======
 #include <stdio.h>
 
 /**
@@ -20,3 +23,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+>>>>>>> 3fc41ba1259a3cff923e58db7b2c9b61bc5feb18
