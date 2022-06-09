@@ -1,11 +1,3 @@
-#include "main.h"
-
-/**
- * _isalpha - checks for alphabetic character
- * @c: the character to be checked
- * Return: 1 if c is a letter, 0 otherwise
- */
-int _isalpha(int c)
-{
-	return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'));
-}
+[master 6e46eb4] 4-isalpha.c
+ 2 files changed, 14 insertions(+), 11 deletions(-)
+ create mode 100644 0x02-functions_nested_loops/4-isalpha.c
