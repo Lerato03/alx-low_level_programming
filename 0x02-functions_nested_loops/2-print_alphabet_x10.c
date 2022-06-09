@@ -16,10 +16,10 @@ while (i < 10)
 ch = 'a';
 while (ch <= 'z')
 {
- _putchar(ch);
- ch++;
- }
- _putchar('\n');
- i++;
+_putchar(ch);
+ch++;
+}
+_putchar('\n');
+i++;
 }
 }
