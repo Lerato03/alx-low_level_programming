@@ -1,2 +1,6 @@
-[master f3624ed] main.c
- 1 file changed, 3 insertions(+), 6 deletions(-)
+#include <sdio.h>
+int main(void)
+ 
+{
+ return (0);
+}
