@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-[master 7ec7100] size c
- 2 files changed, 18 insertions(+)
- create mode 100644 0x00-hello_world/6-size.c
- create mode 100644 0x00-hello_world/README.md
-=======
 #include <stdio.h>
 
 /**
@@ -19,4 +13,3 @@ int main(void)
 	printf("size of a float: %d byte(s)\n", sizeof(float));
 	return (0);
 }
->>>>>>> b2fa48b724fc1d9dbf2a38cb8ba5dbc190b1e9d6
