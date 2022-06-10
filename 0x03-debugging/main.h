@@ -4,5 +4,5 @@
 #include <stdio.h>
 
 void positive_or_negative(int);
-int laest_nume(int a, int b, int c,);
+int largest_number(int a, int b, int c,);
 #endef /* MAIN_H */
