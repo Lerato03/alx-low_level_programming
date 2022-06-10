@@ -1,3 +1,11 @@
-[master 0655171] 3-islower.c
- 1 file changed, 11 insertions(+)
- create mode 100644 0x02-functions_nested_loops/3-islower.c
+#include "main.h"
+
+/**
+*_islower - checks for lowercase character
+*@c: he character to check
+*Return: 1 if c is lowercase, 0 otherwise
+*/
+int _islower(int c)
+{
+ return (c >= 'a' && c <= 'z');
+}
